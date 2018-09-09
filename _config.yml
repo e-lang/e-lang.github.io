@@ -12,9 +12,9 @@ email: e-lang@univ-lr.fr
 description: > # this means to ignore newlines until "baseurl:"
   E-Lang is a project hosted at the University of La Rochelle (France).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://http://e-lang.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://e-lang.github.io" # the base hostname & protocol for your site
+twitter_username: chdemko
+github_username:  chdemko
 
 # Build settings
 markdown: kramdown
